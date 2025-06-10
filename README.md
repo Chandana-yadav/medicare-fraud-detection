@@ -1,8 +1,5 @@
 # medicare-fraud-detection
 Project on Medicare fraud detection using Python, Power BI, and compliance workflows.
-# Medicare Fraud Detection – A Data-Driven Strategy
-
-Capstone project focused on building a fraud detection framework using real-world Medicare-like datasets. Combines Python-based data analysis, Power BI dashboards, and GRC workflows.
 
 🔍 Project Objective
 
