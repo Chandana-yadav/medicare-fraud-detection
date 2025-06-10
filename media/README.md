@@ -1,5 +1,3 @@
-Media Folder
-
 This folder contains visual and video media supporting the project.
 
 Contents
