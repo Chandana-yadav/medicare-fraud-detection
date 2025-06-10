@@ -1,6 +1,10 @@
 # medicare-fraud-detection
 Project on Medicare fraud detection using Python, Power BI, and compliance workflows.
 
+# Medicare Fraud Detection – A Data-Driven Strategy
+
+This project focused on building a fraud detection framework using publicly available Medicare datasets. Combines Python-based data analysis, Power BI dashboards, and GRC workflows.
+
 🔍 Project Objective
 
 Healthcare fraud costs the U.S. billions annually. Our goal: detect high-risk providers and billing anomalies using a data-driven, scalable framework.
@@ -33,9 +37,3 @@ Strategic Models – Included OKRs, Balanced Scorecard, and Business Model Canva
 - 📽️ [Demo Video (MP4)](https://1drv.ms/v/c/754c82fbaed9c76f/EU3AcTGy-CJGgJU2eL2NTlIBJiWMNtdi1AwEmG2Eh6duGg?e=khwZVY)
 - 📑 `Medicare_Fraud_Report.pdf`
 - 🎞️ `Medicare_Fraud_Dashboard_Recording.mp4`
-
-
-- Chandana Yadav Datti  
-- Pragati Burada  
-- Radhika Srinivasan Iyengar  
-- Mihira Teja Narvaneni
